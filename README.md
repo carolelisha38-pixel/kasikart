@@ -1,6 +1,6 @@
 # KasiKart
 
-KasiKart is a Customer-to-Customer (C2C) e-commerce platform developed to empower South African informal traders, side hustlers, and small-scale entrepreneurs through digital commerce.
+KasiKart is a Customer-to-Customer (C2C) e-commerce platform developed to empower South African informal traders, side hustlers, and small business owners through digital commerce.
 
 ## Features
 
@@ -11,24 +11,22 @@ KasiKart is a Customer-to-Customer (C2C) e-commerce platform developed to empowe
 - Product listings
 - Shopping cart
 - Checkout system
-- Order history
-- User management
 - Product management
+- User management
+- Product search and categories
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
 - PHP
 - MySQL
+- HTML5
+- CSS3
+- JavaScript
 
 ## Database
 
-The SQL database export is included in:
+The SQL database file is included in the database folder.
 
-database/kasikart.sql
-
-## Hosted Website
+## Live Website
 
 https://kasikart.infinityfreeapp.com
