@@ -19,8 +19,8 @@ KasiKart is a Customer-to-Customer (C2C) e-commerce platform developed to empowe
 
 - PHP
 - MySQL
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Database
